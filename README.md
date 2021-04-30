@@ -31,6 +31,3 @@ Tecnologia assistiva aplicada à educação: dicionário animado de Libras, 2015
 Referências adicionais : Brasil/Português. 
 Apesar de não apresentar, meu nome está como desenvolvedor do projeto na apresentação.; Local: Centro de Convenções de Pernambuco; Cidade: Recife; Evento: III Fórum Mundial de Educação Profissional e Tecnológica; Inst.promotora/financiadora: Instituto Federal do Norte de Minas Gerais (IFNMG)
 
-
-# accessnet-angular-version
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/accessnet-angular-version)
